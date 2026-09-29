@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.sentinelf/
+scope.json
+report.json
+evidence/
+*.pcap
+*.pcapng
+report.html
+manifest.json

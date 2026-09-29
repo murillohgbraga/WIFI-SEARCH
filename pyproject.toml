@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "sentinelf"
+version = "0.7.0"
+description = "Scoped wireless inventory and evidence tooling"
+requires-python = ">=3.11"
+[project.scripts]
+sentinelf = "sentinelf.cli:main"
+[tool.setuptools.packages.find]
+include = ["sentinelf*"]

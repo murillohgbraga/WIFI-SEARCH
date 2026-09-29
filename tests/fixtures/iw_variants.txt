@@ -1,0 +1,26 @@
+BSS aa:bb:cc:dd:ee:ff(on wlan0)
+        freq: 5180
+        signal: -48.00 dBm
+        SSID: LAB-TRANSITION
+        RSN:
+                * Version: 1
+                * Authentication suites: PSK SAE
+                * Management frame protection capable
+BSS 11:22:33:44:55:66(on wlan0) -- associated
+        freq: 5975
+        signal: -54.50 dBm
+        SSID: LAB-OWE
+        RSN:
+                * Authentication suites: OWE
+                * Management frame protection required
+BSS 22:33:44:55:66:77(on wlan0)
+        freq: 2412
+        signal: -60.00 dBm
+        SSID: LAB-ENTERPRISE
+        RSN:
+                * Authentication suites: 802.1X
+                * Management frame protection capable
+BSS 33:44:55:66:77:88(on wlan0)
+        freq: 2484
+        signal: -70.00 dBm
+        SSID: 

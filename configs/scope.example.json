@@ -1,0 +1,7 @@
+{
+  "engagement": "LAB-001",
+  "authorized": {
+    "ssids": ["LAB-WIFI"],
+    "bssids": ["AA:BB:CC:DD:EE:FF"]
+  }
+}
